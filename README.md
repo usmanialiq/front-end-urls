@@ -1,6 +1,6 @@
 Hello and Welcome
 
-I am sharing some of the most recommended and awesome urls must to have for a Front-end Developer
+I am sharing some of the most recommended and awesome URLs must to have for a Front-end Developer
 
 
 1. Bootstrap (CSS Libraries)
@@ -42,4 +42,4 @@ I am sharing some of the most recommended and awesome urls must to have for a Fr
    * daneden.github.io/animate.css 
 
 
-This repository is open for all to contribute and would be updated timely!!!ß 
+This repository is open for all to contribute and would be updated timely!!!ÃŸ 
